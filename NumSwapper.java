@@ -8,7 +8,6 @@ public class NumSwapper {
 
         swapNumbers(a,b)
     }
-
     static void swapNumbers (int a, int b){
         int c = a;
         a = b;
@@ -17,8 +16,6 @@ public class NumSwapper {
         System.out.println("a = "+ a + ", b = "+ b);
     }
    static void displayNumbers (int a, int b){
-
         System.out.println("a = "+ a + ", b = "+ b);
-
     }
 }
