@@ -6,8 +6,7 @@ public class NumSwapper {
         System.out.println("Initial Numbers:");
         displayNumbers(a,b);
 
-        swapNumbers(a,b);
-
+        swapNumbers(a,b)
     }
 
     static void swapNumbers (int a, int b){
@@ -17,8 +16,9 @@ public class NumSwapper {
         System.out.println("Swaped Numbers: ");
         System.out.println("a = "+ a + ", b = "+ b);
     }
-
    static void displayNumbers (int a, int b){
+
         System.out.println("a = "+ a + ", b = "+ b);
+
     }
 }
