@@ -1,5 +1,4 @@
 public class PrimeChecker {
-
    static boolean isPrime(int n) {
         if (n <= 1)
             return false;
@@ -13,7 +12,8 @@ public class PrimeChecker {
         int number = 55;
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
-        } else {
+        } else
+        {
             System.out.println(number + " is not a prime number.");
         }
     }
