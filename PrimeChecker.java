@@ -9,7 +9,6 @@ public class PrimeChecker {
         }
         return true;
     }
-
     public static void main(String[] args) {
         int number = 55;
         if (isPrime(number)) {
@@ -17,6 +16,5 @@ public class PrimeChecker {
         } else {
             System.out.println(number + " is not a prime number.");
         }
-
     }
 }
