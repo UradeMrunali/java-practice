@@ -5,7 +5,6 @@ public class Factorial {
             num = num * i;
         }
             return num;
-
     }
 
     public static void main(String[] args) {
