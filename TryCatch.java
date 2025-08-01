@@ -7,6 +7,6 @@ public class TryCatch {
             System.out.println("Error: You're trying to access an invalid index!");
         } finally {
             System.out.println("This is program of checking try catch and finally block");
-        }
+
     }
 }
