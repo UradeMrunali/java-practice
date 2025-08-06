@@ -23,6 +23,5 @@ public class ColorArrayList {
             System.out.println("No there is no Blue color available");
         }
 
-
     }
 }
