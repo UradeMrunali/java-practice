@@ -9,7 +9,6 @@ public class ColorArrayList {
         colors.add("White");
         colors.add("Green");
         colors.add("Red");
-
         System.out.println("All color in the list are: " + colors);
 
         colors.add(2,"Orange");
