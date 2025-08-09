@@ -7,7 +7,6 @@ public class SortingArrayList {
 //                Add fruits: Apple, Banana, Orange, Mango, Kiwi.
 //                Sort the list alphabetically.
 //                Search for "Mango" and display its index.
-//        Check if "Papaya" is in the list.
 
         ArrayList<String> fruits = new ArrayList<>();
         Collections.addAll(fruits,"Apple", "Banana" , "Orange" , "Mango" , "Kiwi");
