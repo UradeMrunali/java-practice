@@ -3,9 +3,6 @@ import java.util.Collections;
 
 public class SortingArrayList {
     public static void main(String[] args) {
-//        Create an ArrayList of Strings named fruits.
-//                Add fruits: Apple, Banana, Orange, Mango, Kiwi.
-//                Sort the list alphabetically.
 
         ArrayList<String> fruits = new ArrayList<>();
         Collections.addAll(fruits,"Apple", "Banana" , "Orange" , "Mango" , "Kiwi");
