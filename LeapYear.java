@@ -6,7 +6,7 @@ public class LeapYear {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to New Year Calculator");
         System.out.print("Enter the year you want to check: ");
-        int year= sc.nextInt();;
+        int year= sc.nextInt();
 
         if(year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)){
             System.out.println("This is Leap Year");
