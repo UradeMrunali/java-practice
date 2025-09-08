@@ -9,6 +9,7 @@ import java.util.List;
 
 public class PatientsDAO {
 
+
     public void addPatients(Patients p){
         String sql =  "INSERT INTO patients (name, age, phone) VALUES (?, ?, ?)";
         try (Connection conn = DBConnection.getConnection();
