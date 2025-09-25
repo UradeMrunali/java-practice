@@ -30,5 +30,6 @@ public class DomainApplication {
         System.out.println("Price Per Year Final: " + res.pricePerFinalYear);
         System.out.println("Final Price with Renewals: " + res.finalPriceWithRenewals);
 
+        
     }
 }
