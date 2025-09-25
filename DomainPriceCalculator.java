@@ -46,5 +46,4 @@ public class DomainPriceCalculator {
 
         return result;
     }
-
 }
