@@ -14,6 +14,5 @@ public class ArmstrongCheck {
         System.out.println(isArmstrong(153));
         System.out.println(isArmstrong(122));
         System.out.println(isArmstrong(370));
-
     }
 }
