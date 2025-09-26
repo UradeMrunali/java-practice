@@ -12,6 +12,7 @@ public class SortingArrayList {
         System.out.println("Sorted list:" + fruits);
 
         int mangoIndex = fruits.indexOf("Mango");
+        
         if(mangoIndex != -1){
             System.out.println("Mango is at the index of: " + mangoIndex);
         } else {
