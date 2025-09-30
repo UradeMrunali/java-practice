@@ -4,14 +4,6 @@ import java.util.Collections;
 public class NumbersArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
-
-//        Add these numbers: 50, 70, 30, 90, 100, 60.
-//        Find and print:
-//        Maximum number
-//        Minimum number
-//        Average of numbers
-//        Remove all numbers less than 60.
-
         numbers.add(50);
         numbers.add(70);
         numbers.add(30);
