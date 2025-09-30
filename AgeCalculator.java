@@ -15,7 +15,6 @@ public class AgeCalculator {
             System.out.println("You are a teenager");
         } else{
             System.out.println("Baby you are a child");
-
         }
     }
 }
