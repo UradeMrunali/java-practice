@@ -4,7 +4,6 @@ public class MultiplicationTable {
 
         printTable(num);
     }
-
     static void printTable (int num) {
         System.out.println("Table of "+ num + ":");
         for(int i = 1; i <= 10 ; i++){
