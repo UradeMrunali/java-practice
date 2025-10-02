@@ -15,13 +15,13 @@ public class SortingArrayList {
         
         if(mangoIndex != -1){
             System.out.println("Mango is at the index of: " + mangoIndex);
-        } else {
+        } else{
             System.out.println("Mango is not in the list");
         }
 
         if(fruits.contains("Papaya")){
             System.out.println("Yes Papaya is available in list");
-        }else {
+        }else{
             System.out.println("No papaya is unavailable ");
         }
     }
