@@ -14,6 +14,5 @@ public class ReverseNumber {
         int reversed = reverseNum(original);
         System.out.println("Your original num = " + original);
         System.out.println("Reversed num = " + reversed);
-
     }
 }
