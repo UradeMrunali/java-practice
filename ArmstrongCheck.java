@@ -10,6 +10,8 @@ public class ArmstrongCheck {
         }
         return sum==original;
     }
+
+  
     public static void main(String[] args) {
         System.out.println(isArmstrong(153));
         System.out.println(isArmstrong(122));
