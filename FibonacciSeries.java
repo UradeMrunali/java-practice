@@ -7,7 +7,6 @@ public class FibonacciSeries {
             a = b;
             b = next;
         }
-
     }
     public static void main(String[] args) {
         printFibonacci(7);
