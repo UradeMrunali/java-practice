@@ -19,9 +19,7 @@ public class ColorArrayList {
 
         if (colors.contains("Blue")){
             System.out.println("Yes Blue color is in this list");
-        } else 
-       
-        {
+        } else {
             System.out.println("No there is no Blue color available");
         }
     }
