@@ -21,7 +21,6 @@ public class ColorArrayList {
             System.out.println("Yes Blue color is in this list");
         } else 
        
-        
         {
             System.out.println("No there is no Blue color available");
         }
