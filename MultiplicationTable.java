@@ -10,6 +10,4 @@ public class MultiplicationTable {
             System.out.println(num+ "*" + i + "=" + (num * i));
         }
     }
-
-    
 }
