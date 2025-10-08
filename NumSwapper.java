@@ -8,8 +8,6 @@ public class NumSwapper {
 
         swapNumbers(a,b)
     }
-
-
     
     static void swapNumbers (int a, int b){
         int c = a;
