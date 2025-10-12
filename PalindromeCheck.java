@@ -11,6 +11,8 @@ public class PalindromeCheck {
         }
     }
 
+    
+
     public boolean isPalindrome(int num) {
         int original = num;
         int reversed = 0;
