@@ -9,3 +9,4 @@ public class FahrenheitToCelsius {
         System.out.println("Your temperature is : "+ cel +"C");
     }
 }
+
