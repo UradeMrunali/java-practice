@@ -5,7 +5,6 @@ public class AgeCalculator {
         System.out.println("Lets calculate Age");
         System.out.print("Enter your Age: ");
         int age= sc.nextInt();
-
         if(age >= 65){
             System.out.println("You are a senior citizen");
         } else if (age >= 20) {
