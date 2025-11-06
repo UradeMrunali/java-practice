@@ -8,7 +8,6 @@ public class ArmstrongCheck {
             sum += digit * digit * digit ;
             num /= 10;
         }
-    
         return sum==original;
     }
     public static void main(String[] args) {
