@@ -26,6 +26,5 @@ public class NumbersArrayList {
 
         numbers.removeIf(n -> n < 60 );
         System.out.println("After removing number less than 60 remaining list is: " + numbers);
-
     }
 }
