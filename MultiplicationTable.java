@@ -1,7 +1,6 @@
 public class MultiplicationTable {
     public static void main(String[] args) {
         int num = 9;
-
         printTable(num);
     }
     static void printTable (int num) {
