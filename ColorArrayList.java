@@ -14,7 +14,6 @@ public class ColorArrayList {
         System.out.println("After adding new color: " + colors);
         colors.remove(4);
         System.out.println("After removing color of index 4: "+ colors);
-
         if (colors.contains("Blue")){
             System.out.println("Yes Blue color is in this list");
         } else {
