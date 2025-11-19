@@ -5,7 +5,6 @@ public class NumSwapper {
         
         System.out.println("Initial Numbers:");
         displayNumbers(a,b);
-
         swapNumbers(a,b)
     }
     static void swapNumbers (int a, int b){
