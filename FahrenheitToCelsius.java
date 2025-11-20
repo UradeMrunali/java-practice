@@ -2,6 +2,8 @@ import java.util.Scanner;
 public class FahrenheitToCelsius {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
+        
         System.out.println("Welcome to Temperature Converter");
         System.out.print("Enter your Temp in F: ");
         float f= sc.nextFloat();
