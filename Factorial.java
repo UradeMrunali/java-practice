@@ -6,6 +6,7 @@ public class Factorial {
         }
             return num;
     }
+    
     public static void main(String[] args) {
         Factorial a = new Factorial();
         int n = 6;
