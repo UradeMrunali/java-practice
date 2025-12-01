@@ -7,7 +7,6 @@ public class ReverseNumber {
         }
         return rev;
     }
-
     public static void main(String[] args) {
         int original = 1234;
         int reversed = reverseNum(original);
