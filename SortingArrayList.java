@@ -10,13 +10,11 @@ public class SortingArrayList {
         Collections.sort(fruits);
         System.out.println("Sorted list:" + fruits);
         int mangoIndex = fruits.indexOf("Mango");
-        
         if(mangoIndex != -1){
             System.out.println("Mango is at the index of: " + mangoIndex);
         } else{
             System.out.println("Mango is not in the list");
         }
-
         if(fruits.contains("Papaya")){
             System.out.println("Yes Papaya is available in list");
         }else{
