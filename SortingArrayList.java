@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
 public class SortingArrayList {
     public static void main(String[] args) {
 
