@@ -41,7 +41,6 @@ public class DomainPriceCalculator {
         result.markupForSelectedYears = Math.max(markupDiscount * Math.pow(1 - annualMarkupDecrease, noOfRenewalYears), minimumMarkup);
         result.pricePerFinalYear = renewalPrice * (1 + result.markupForSelectedYears * discount);
         result.finalPriceWithRenewals = ( renewalPrice * (1 + result.markupForSelectedYears) * (1 - discount)) * noOfRenewalYears;
-
         return result;
     }
 }
