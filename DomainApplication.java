@@ -1,5 +1,4 @@
 public class DomainApplication {
-
     public static void main(String[] args) {
 
        // B = Registration Price (e.g., 100.00)
