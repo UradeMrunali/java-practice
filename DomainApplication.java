@@ -1,7 +1,7 @@
 public class DomainApplication {
     public static void main(String[] args) {
 
-       // B = Registration Price (e.g., 100.00)
+// B = Registration Price (e.g., 100.00)
 //    C = Renewal Price (e.g., 100.00)
 //    D = Transfer Price (e.g., 50.00)
 //    F = Markup % (e.g., 50.00%)
