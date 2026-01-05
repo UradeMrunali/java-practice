@@ -10,13 +10,10 @@ public class NumbersArrayList {
         numbers.add(100);
         numbers.add(60);
         System.out.println("Numbers in list are: " + numbers);
-
         int max = Collections.max(numbers);
         System.out.println("Maximum number is: " + max);
-
         int min =  Collections.min(numbers);
         System.out.println("Minimum number is: " + min);
-
         int sum = 0;
         for(int num : numbers){
            sum += num ;
@@ -28,5 +25,3 @@ public class NumbersArrayList {
         System.out.println("After removing number less than 60 remaining list is: " + numbers);
     }
 }
-
-
