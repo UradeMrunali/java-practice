@@ -1,7 +1,6 @@
 public class PalindromeCheck {
     public static void main(String[] args) {
         int num = 122;
-
         PalindromeCheck obj = new PalindromeCheck();
         boolean pal=obj.isPalindrome(num);
         if(pal){
