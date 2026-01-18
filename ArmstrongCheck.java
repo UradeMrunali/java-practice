@@ -1,4 +1,4 @@
-public class ArmstrongCheck {
+public class ArmstrongCheck{
   static boolean isArmstrong (int num){
         int original = num;
         int sum = 0;
@@ -16,7 +16,3 @@ public class ArmstrongCheck {
         System.out.println(isArmstrong(370));
     }
 }
-
-
-
-
