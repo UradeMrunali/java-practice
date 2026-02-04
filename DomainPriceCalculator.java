@@ -32,7 +32,6 @@ public class DomainPriceCalculator {
             double markupDiscount, double fixedPrice,
             double noOfRenewalYears, double discount,
             double annualMarkupDecrease, double minimumMarkup ) {
-
         DomainPriceResult result = new DomainPriceResult();
         result.markupPrice = registrationPrice * (1 + markupDiscount);
         result.finalConsumerPrice = result.markupPrice - (result.markupPrice * discount);
