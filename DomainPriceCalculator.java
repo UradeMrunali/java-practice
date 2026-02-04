@@ -26,8 +26,6 @@ public class DomainPriceCalculator {
         double pricePerFinalYear;
         double finalPriceWithRenewals;
     }
-
-    
     public static DomainPriceResult calculatePrice(
             double registrationPrice,
             double renewalPrice, double transferPrice,
