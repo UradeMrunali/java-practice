@@ -8,9 +8,7 @@ public class PalindromeCheck {
         }else{
             System.out.println("Not palindrome");
         }
-    }    
-
-    
+    }   
     public boolean isPalindrome(int num) {
         int original = num;
         int reversed = 0;
