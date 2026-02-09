@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 public class SortingArrayList {
     public static void main(String[] args) {
-
         ArrayList<String> fruits = new ArrayList<>();
         Collections.addAll(fruits,"Apple", "Banana" , "Orange" , "Mango" , "Kiwi");
         System.out.println("Fruits in the list are: "+ fruits);
