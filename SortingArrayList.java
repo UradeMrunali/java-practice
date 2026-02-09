@@ -5,7 +5,6 @@ public class SortingArrayList {
         ArrayList<String> fruits = new ArrayList<>();
         Collections.addAll(fruits,"Apple", "Banana" , "Orange" , "Mango" , "Kiwi");
         System.out.println("Fruits in the list are: "+ fruits);
-
         Collections.sort(fruits);
         System.out.println("Sorted list:" + fruits);
         int mangoIndex = fruits.indexOf("Mango");
