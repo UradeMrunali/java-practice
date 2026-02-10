@@ -18,8 +18,6 @@ public class NumbersArrayList {
         for(int num : numbers){
            sum += num ;
         }
-
-        
         double average = (double) sum / numbers.size();
         System.out.println("Average of the numbers in list is: " + average);
 
