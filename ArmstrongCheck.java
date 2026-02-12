@@ -16,5 +16,3 @@ public class ArmstrongCheck{
         System.out.println(isArmstrong(370));
     }
 }
-
-
