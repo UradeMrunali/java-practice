@@ -18,7 +18,7 @@ public class DomainApplication {
 //    Q Final Price with Renewals (C * (1 + O) * (1 - J)) * H
     DomainPriceCalculator.DomainPriceResult res = DomainPriceCalculator.calculatePrice
             (100, 100, 50, 0.50, 100, 2, 0.10, 0.05, 0.15);
-
+        
         System.out.println("Markup Price: " + res.markupPrice);
         System.out.println("Final Consumer Price: " + res.finalConsumerPrice);
         System.out.println("Price per Selected Years: " + res.pricePerSelectedYears);
