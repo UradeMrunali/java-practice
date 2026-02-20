@@ -1,5 +1,4 @@
 public class DomainPriceCalculator {
-
 //    B = Registration Price (e.g., 100.00)
 //    C = Renewal Price (e.g., 100.00)
 //    D = Transfer Price (e.g., 50.00)
