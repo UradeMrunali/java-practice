@@ -19,8 +19,6 @@ public class SortingArrayList {
             System.out.println("No papaya is unavailable ");
         }
     }
-
-    
 }
 
 
