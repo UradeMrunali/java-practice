@@ -14,6 +14,3 @@ public class ReverseNumber {
         System.out.println("Reversed num = " + reversed);
     }
 }
-
-
-
