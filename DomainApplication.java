@@ -27,6 +27,3 @@ public class DomainApplication {
         System.out.println("Final Price with Renewals: " + res.finalPriceWithRenewals);
     }
 }
-
-
-
